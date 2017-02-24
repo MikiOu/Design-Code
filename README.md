@@ -50,3 +50,5 @@ gulp.task("deploy", ["jekyll-build"], function () {
         .pipe(deploy());
 });
 ```
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,400i');
+font-family: 'Fira Sans', sans-serif;
