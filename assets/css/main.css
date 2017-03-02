@@ -693,6 +693,9 @@ body {
   padding: 0 10px;
   background: honeydew; }
 
+.col-50 {
+  width: 50%; }
+
 @media (max-width: 640px) {
   .home-sections .flex {
     display: block; }
